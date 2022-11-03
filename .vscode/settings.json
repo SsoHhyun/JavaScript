@@ -1,0 +1,12 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "explorer.confirmDelete": false,
+  "terminal.integrated.customGlyphs": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.bracketSameLine": true,
+  "editor.formatOnSave": true,
+  "json.schemas": []
+}
